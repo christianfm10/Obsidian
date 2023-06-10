@@ -14,9 +14,15 @@ Author: Christian Flores
 Author: [[Christian Flores]]
 [ ](#anki-card)
 ## 📝 Notes
-- Git init: Create a new Git repository.
-- 
-
+- git init: Create a new Git repository.
+- git push: 
+	- -u flag: It may help if you don't want to manually specify the remote every time you run git push.
+- git branch: 
+	- -set-upstream-to 
+- git remote:
+	- add origin [link]
+	- show origin
+	- set-url origin
 
 ## Questions/Thoughts
 - 

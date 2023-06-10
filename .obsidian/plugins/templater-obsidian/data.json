@@ -17,6 +17,10 @@
     {
       "folder": "GIT",
       "template": "999 Templates/note template.md"
+    },
+    {
+      "folder": "Linux",
+      "template": "999 Templates/note template.md"
     }
   ],
   "syntax_highlighting": true,
